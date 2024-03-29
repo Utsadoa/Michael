@@ -1,4 +1,4 @@
-{
+[
   "HCM": {
     "name": "Ho Chi Minh",
     "capital": "Ha Noi",
@@ -353,4 +353,4 @@
     "lat": "21.370",
     "long": "103.010"
   }
-}
+]
