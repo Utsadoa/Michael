@@ -1,0 +1,356 @@
+{
+  "HCM": {
+    "name": "Ho Chi Minh",
+    "capital": "Ha Noi",
+    "lat": "10.780",
+    "long": "106.690"
+  },
+  "HN": {
+    "name": "Ha Noi",
+    "capital": "Ha Noi",
+    "lat": "21.030",
+    "long": "105.840"
+  },
+  "HP": {
+    "name": "Hai Phong",
+    "capital": "Ha Noi",
+    "lat": "20.860",
+    "long": "106.680"
+  },
+  "DN": {
+    "name": "Da Nang",
+    "capital": "Ha Noi",
+    "lat": "16.070",
+    "long": "108.210"
+  },
+  "BH": {
+    "name": "Bien Hoa",
+    "capital": "Ha Noi",
+    "lat": "10.950",
+    "long": "106.820"
+  },
+  "H": {
+    "name": "Hue",
+    "capital": "Ha Noi",
+    "lat": "16.480",
+    "long": "107.580"
+  },
+  "NT": {
+    "name": "Nha Trang",
+    "capital": "Ha Noi",
+    "lat": "12.250",
+    "long": "109.190"
+  },
+  "CG": {
+    "name": "Can Gio",
+    "capital": "Ha Noi",
+    "lat": "10.030",
+    "long": "105.780"
+  },
+  "RG": {
+    "name": "Rach Gia",
+    "capital": "Ha Noi",
+    "lat": "10.020",
+    "long": "105.080"
+  },
+  "QN": {
+    "name": "Quy Nhon",
+    "capital": "Ha Noi",
+    "lat": "13.770",
+    "long": "109.240"
+  },
+  "VT": {
+    "name": "Vung Tau",
+    "capital": "Ha Noi",
+    "lat": "10.350",
+    "long": "107.080"
+  },
+  "ND": {
+    "name": "Nam Dinh",
+    "capital": "Ha Noi",
+    "lat": "20.430",
+    "long": "106.170"
+  },
+  "LX": {
+    "name": "Long Xuyen",
+    "capital": "Ha Noi",
+    "lat": "10.390",
+    "long": "105.430"
+  },
+  "CP": {
+    "name": "Cam Pha",
+    "capital": "Ha Noi",
+    "lat": "21.020",
+    "long": "107.290"
+  },
+  "PT": {
+    "name": "Phan Thiet",
+    "capital": "Ha Noi",
+    "lat": "10.930",
+    "long": "108.110"
+  },
+  "HG": {
+    "name": "Hong Gai",
+    "capital": "Ha Noi",
+    "lat": "20.970",
+    "long": "107.080"
+  },
+  "CR": {
+    "name": "Cam Ranh",
+    "capital": "Ha Noi",
+    "lat": "11.900",
+    "long": "109.220"
+  },
+  "BMT": {
+    "name": "Buon Me Thuot",
+    "capital": "Ha Noi",
+    "lat": "12.680",
+    "long": "108.040"
+  },
+  "TN": {
+    "name": "Thai Nguyen",
+    "capital": "Ha Noi",
+    "lat": "21.560",
+    "long": "105.860"
+  },
+  "DL": {
+    "name": "Da Lat",
+    "capital": "Ha Noi",
+    "lat": "11.960",
+    "long": "108.440"
+  },
+  "MT": {
+    "name": "My Tho",
+    "capital": "Ha Noi",
+    "lat": "10.360",
+    "long": "106.360"
+  },
+  "ST": {
+    "name": "Soc Trang",
+    "capital": "Ha Noi",
+    "lat": "9.620",
+    "long": "105.970"
+  },
+  "TH": {
+    "name": "Thanh Hoa",
+    "capital": "Ha Noi",
+    "lat": "19.810",
+    "long": "105.780"
+  },
+  "CM": {
+    "name": "Ca Mau",
+    "capital": "Ha Noi",
+    "lat": "9.180",
+    "long": "105.150"
+  },
+  "BL": {
+    "name": "Bac Lieu",
+    "capital": "Ha Noi",
+    "lat": "9.300",
+    "long": "105.720"
+  },
+  "VL": {
+    "name": "Vinh Long",
+    "capital": "Ha Noi",
+    "lat": "10.250",
+    "long": "105.970"
+  },
+  "HB": {
+    "name": "Hoa Binh",
+    "capital": "Ha Noi",
+    "lat": "20.840",
+    "long": "105.330"
+  },
+  "V": {
+    "name": "Vinh",
+    "capital": "Ha Noi",
+    "lat": "18.680",
+    "long": "105.670"
+  },
+  "PR": {
+    "name": "Phan Rang",
+    "capital": "Ha Noi",
+    "lat": "11.570",
+    "long": "109.000"
+  },
+  "YB": {
+    "name": "Yen Bai",
+    "capital": "Ha Noi",
+    "lat": "21.710",
+    "long": "104.870"
+  },
+  "VT": {
+    "name": "Viet Tri",
+    "capital": "Ha Noi",
+    "lat": "21.310",
+    "long": "105.430"
+  },
+  "TH": {
+    "name": "Tuy Hoa",
+    "capital": "Ha Noi",
+    "lat": "13.090",
+    "long": "109.300"
+  },
+  "UB": {
+    "name": "Uong Bi",
+    "capital": "Ha Noi",
+    "lat": "21.040",
+    "long": "106.770"
+  },
+  "TA": {
+    "name": "Tan An",
+    "capital": "Ha Noi",
+    "lat": "10.540",
+    "long": "106.410"
+  },
+  "CD": {
+    "name": "Chau Doc",
+    "capital": "Ha Noi",
+    "lat": "10.710",
+    "long": "105.110"
+  },
+  "TK": {
+    "name": "Tam Ky",
+    "capital": "Ha Noi",
+    "lat": "15.570",
+    "long": "108.490"
+  },
+  "HD": {
+    "name": "Hai Duong",
+    "capital": "Ha Noi",
+    "lat": "20.960",
+    "long": "106.320"
+  },
+  "BT": {
+    "name": "Ben Tre",
+    "capital": "Ha Noi",
+    "lat": "10.230",
+    "long": "106.370"
+  },
+  "TV": {
+    "name": "Tra Vinh",
+    "capital": "Ha Noi",
+    "lat": "9.940",
+    "long": "106.3402"
+  },
+  "SB": {
+    "name": "Song Be",
+    "capital": "Ha Noi",
+    "lat": "10.980",
+    "long": "106.650"
+  },
+  "BS": {
+    "name": "Bien San",
+    "capital": "Ha Noi",
+    "lat": "20.060",
+    "long": "105.850"
+  },
+  "BG": {
+    "name": "Bac Giang",
+    "capital": "Ha Noi",
+    "lat": "21.280",
+    "long": "106.190"
+  },
+  "TB": {
+    "name": "Thai Binh",
+    "capital": "Ha Noi",
+    "lat": "20.450",
+    "long": "106.340"
+  },
+  "HD": {
+    "name": "Ha Dong",
+    "capital": "Ha Noi",
+    "lat": "20.970",
+    "long": "105.770"
+  },
+  "KT": {
+    "name": "Kon Tum",
+    "capital": "Ha Noi",
+    "lat": "14.340",
+    "long": "108.010"
+  },
+  "BN": {
+    "name": "Bac Ninh",
+    "capital": "Ha Noi",
+    "lat": "21.190",
+    "long": "106.050"
+  },
+  "SD": {
+    "name": "Sa Dec",
+    "capital": "Ha Noi",
+    "lat": "10.300",
+    "long": "105.760"
+  },
+  "TN": {
+    "name": "Tay Ninh",
+    "capital": "Ha Noi",
+    "lat": "11.290",
+    "long": "106.130"
+  },
+  "HY": {
+    "name": "Huong Yen",
+    "capital": "Ha Noi",
+    "lat": "20.650",
+    "long": "106.040"
+  },
+  "ST": {
+    "name": "Son Tay",
+    "capital": "Ha Noi",
+    "lat": "21.140",
+    "long": "105.510"
+  },
+  "LC": {
+    "name": "Lao Cai",
+    "capital": "Ha Noi",
+    "lat": "22.500",
+    "long": "103.960"
+  },
+  "CB": {
+    "name": "Cao Bang",
+    "capital": "Ha Noi",
+    "lat": "22.680",
+    "long": "106.270"
+  },
+  "NB": {
+    "name": "Ninh Binh",
+    "capital": "Ha Noi",
+    "lat": "20.250",
+    "long": "105.980"
+  },
+  "QN": {
+    "name": "Quang Ngai",
+    "capital": "Ha Noi",
+    "lat": "15.120",
+    "long": "108.810"
+  },
+  "HG": {
+    "name": "Ha Giang",
+    "capital": "Ha Noi",
+    "lat": "22.860",
+    "long": "104.980"
+  }
+  "HA": {
+    "name": "Hoi An",
+    "capital": "Ha Noi",
+    "lat": "15.880",
+    "long": "108.340"
+  },
+  "LS": {
+    "name": "Lang Son",
+    "capital": "Ha Noi",
+    "lat": "21.860",
+    "long": "106.760"
+  },
+  "TQ": {
+    "name": "Tuyen Quang",
+    "capital": "Ha Noi",
+    "lat": "21.820",
+    "long": "105.210"
+  }
+  "DB": {
+    "name": "Dien Bien",
+    "capital": "Ha Noi",
+    "lat": "21.370",
+    "long": "103.010"
+  }
+}
