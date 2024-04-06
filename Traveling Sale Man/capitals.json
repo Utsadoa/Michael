@@ -5,12 +5,6 @@
     "lat": "10.780",
     "long": "106.690"
   },
-  "TN": {
-    "name": "Tay Ninh",
-    "capital": "Banh Trang",
-    "lat": "11.290",
-    "long": "106.130"
-  },
   "BP": {
     "name": "Binh Phuoc",
     "capital": "Banh Da",
@@ -28,12 +22,6 @@
     "capital": "Yaour",
     "lat": "10.350",
     "long": "107.080"
-  },
-  "BT": {
-    "name": "Binh Thuan",
-    "capital": "Sua Gao",
-    "lat": "11.317",
-    "long": "108.657"
   },
   "NT": {
     "name": "Ninh Thuan",
