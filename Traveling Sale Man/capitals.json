@@ -11,12 +11,6 @@
     "lat": "11.539",
     "long": "106.900"
   },
-  "DN": {
-    "name": "Dong Nai",
-    "capital": "Banh ",
-    "lat": "10.950",
-    "long": "106.820"
-  },
   "VT": {
     "name": "Vung Tau",
     "capital": "Yaour",
@@ -77,18 +71,6 @@
     "lat": "14.362",
     "long": "107.999"
   },
-  "QN": {
-    "name": "Quang Ngai",
-    "capital": "Bac Phan",
-    "lat": "15.158",
-    "long": "108.846"
-  },
-  "QN": {
-    "name": "Quang Nam",
-    "capital": "Cam Dao",
-    "lat": "15.572",
-    "long": "108.470"
-  },
   "DN": {
     "name": "Da nang",
     "capital": "Ca Phe",
@@ -148,12 +130,6 @@
     "capital": "Son Tung",
     "lat": "20.451",
     "long": "106.347"
-  },
-  "HN": {
-    "name": "Ha Nam",
-    "capital": "Chao Ga",
-    "lat": "20.546",
-    "long": "105.912"
   },
   "HN": {
     "name": "Ha Noi",
@@ -233,23 +209,11 @@
     "lat": "22.172",
     "long": "105.313"
   },
-  "HG": {
-    "name": "Ha Giang",
-    "capital": "Banh Da",
-    "lat": "22.823",
-    "long": "104.983"
-  },
   "YB": {
     "name": "Yen Bai",
     "capital": "Banh Hanh",
     "lat": "21.716",
     "long": "104.898"
-  },
-  "LC": {
-    "name": "Lao Cai",
-    "capital": "Banh Trang",
-    "lat": "22.476",
-    "long": "103.973"
   },
   "LC": {
     "name": "Lai Chau",
