@@ -1,1 +1,104 @@
-
+{
+  "Seoul": {
+    "name": "Seoul",
+    "capital": "Seoul",
+    "lat": 37.5665,
+    "long": 126.978
+  },
+  "Busan": {
+    "name": "Busan",
+    "capital": "Busan",
+    "lat": 35.1796,
+    "long": 129.0756
+  },
+  "Incheon": {
+    "name": "Incheon",
+    "capital": "Incheon",
+    "lat": 37.4563,
+    "long": 126.7052
+  },
+  "Daegu": {
+    "name": "Daegu",
+    "capital": "Daegu",
+    "lat": 35.8714,
+    "long": 128.6014
+  },
+  "Daejeon": {
+    "name": "Daejeon",
+    "capital": "Daejeon",
+    "lat": 36.3504,
+    "long": 127.3845
+  },
+  "Gwangju": {
+    "name": "Gwangju",
+    "capital": "Gwangju",
+    "lat": 35.1595,
+    "long": 126.8526
+  },
+  "Ulsan": {
+    "name": "Ulsan",
+    "capital": "Ulsan",
+    "lat": 35.5384,
+    "long": 129.3114
+  },
+  "Sejong": {
+    "name": "Sejong",
+    "capital": "Sejong",
+    "lat": 36.4801,
+    "long": 127.2892
+  },
+  "Gyeonggi": {
+    "name": "Gyeonggi Province",
+    "capital": "Suwon",
+    "lat": 37.4138,
+    "long": 127.5183
+  },
+  "Gangwon": {
+    "name": "Gangwon Province",
+    "capital": "Chuncheon",
+    "lat": 37.8228,
+    "long": 128.1555
+  },
+  "Chungcheongbuk": {
+    "name": "Chungcheongbuk Province",
+    "capital": "Cheongju",
+    "lat": 36.8001,
+    "long": 127.7001
+  },
+  "Chungcheongnam": {
+    "name": "Chungcheongnam Province",
+    "capital": "Daejeon",
+    "lat": 36.5184,
+    "long": 126.8000
+  },
+  "Jeollabuk": {
+    "name": "Jeollabuk Province",
+    "capital": "Jeonju",
+    "lat": 35.7175,
+    "long": 127.1530
+  },
+  "Jeollanam": {
+    "name": "Jeollanam Province",
+    "capital": "Muan",
+    "lat": 34.8679,
+    "long": 126.9910
+  },
+  "Gyeongsangbuk": {
+    "name": "Gyeongsangbuk Province",
+    "capital": "Andong",
+    "lat": 36.5759,
+    "long": 128.5055
+  },
+  "Gyeongsangnam": {
+    "name": "Gyeongsangnam Province",
+    "capital": "Changwon",
+    "lat": 35.2383,
+    "long": 128.6922
+  },
+  "Jeju": {
+    "name": "Jeju Province",
+    "capital": "Jeju City",
+    "lat": 33.4996,
+    "long": 126.5312
+  }
+}
