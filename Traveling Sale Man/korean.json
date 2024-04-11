@@ -1,104 +1,98 @@
 {
-  "SE": {
-    "name": "Seoul",
+  "Busan": {
+    "name": "부산",
     "capital": "Kimchi",
-    "lat": 37.5665,
-    "long": 126.978
+    "lat": 35.179,
+    "long": 129.075
   },
-  "BS": {
-    "name": "Busan",
+  "Gyeongsangnam": {
+    "name": "경상남",
     "capital": "Bata",
-    "lat": 35.1796,
-    "long": 129.0756
+    "lat": 35.460,
+    "long": 128.213
   },
-  "IC": {
-    "name": "Incheon",
+  "Ulsan": {
+    "name": "울산",
     "capital": "Oreo",
-    "lat": 37.4563,
-    "long": 126.7052
+    "lat": 35.538,
+    "long": 129.311
   },
-  "DG": {
-    "name": "Daegu",
+  "Daegu": {
+    "name": "대구",
     "capital": "Blossom",
-    "lat": 35.8714,
-    "long": 128.6014
+    "lat": 35.866,
+    "long": 128.600
   },
-  "DJ": {
-    "name": "Daejeon",
+  "Gyeongsangbuk": {
+    "name": "경상북",
     "capital": "Girls",
-    "lat": 36.3504,
-    "long": 127.3845
+    "lat": 35.835,
+    "long": 129.263
   },
-  "GJ": {
-    "name": "Gwangju",
+  "Gangwon": {
+    "name": "강원",
     "capital": "Bar",
-    "lat": 35.1595,
-    "long": 126.8526
+    "lat": 37.342,
+    "long": 127.920
   },
-  "US": {
-    "name": "Ulsan",
+  "Seoul": {
+    "name": "서울",
     "capital": "Food",
-    "lat": 35.5384,
-    "long": 129.3114
+    "lat": 37.517,
+    "long": 127.047
   },
-  "SJ": {
-    "name": "Sejong",
+  "Incheon": {
+    "name": "인천",
     "capital": "Beer",
-    "lat": 36.4801,
-    "long": 127.2892
+    "lat": 37.456,
+    "long": 126.705
   },
-  "GG": {
-    "name": "Gyeonggi ",
+  "Gyeonggi": {
+    "name": "경기",
     "capital": "Soju",
-    "lat": 37.4138,
-    "long": 127.5183
+    "lat": 37.859,
+    "long": 126.785
   },
-  "GW": {
-    "name": "Gangwon ",
+  "Chungcheongbuk": {
+    "name": "충청북",
     "capital": "Pho",
-    "lat": 37.8228,
-    "long": 128.1555
+    "lat": 36.981,
+    "long": 127.935
   },
-  "CC": {
-    "name": "Chungcheongbuk ",
+  "Daejeon": {
+    "name": "대전",
     "capital": "Banh My",
-    "lat": 36.8001,
+    "lat": 36.351,
     "long": 127.7001
   },
-  "CM": {
-    "name": "Chungcheongnam ",
+  "Chungcheongnam": {
+    "name": "충청남",
     "capital": "Daejeon",
-    "lat": 36.5184,
-    "long": 126.8000
+    "lat": 36.806,
+    "long": 126.979
   },
-  "JL": {
-    "name": "Jeollabuk ",
+  "Jeollabuk": {
+    "name": "전라북",
     "capital": "Jeonju",
-    "lat": 35.7175,
-    "long": 127.1530
+    "lat": 35.717,
+    "long": 127.153
   },
-  "JO": {
-    "name": "Jeollanam ",
+  "Gwangju": {
+    "name": "광주",
     "capital": "Muan",
-    "lat": 34.8679,
-    "long": 126.9910
+    "lat": 35.166,
+    "long": 126.916
   },
-  "GK": {
-    "name": "Gyeongsangbuk ",
+  "Jeolanam": {
+    "name": "전라남",
     "capital": "Andong",
-    "lat": 36.5759,
-    "long": 128.5055
+    "lat": 34.990,
+    "long": 126.478
   },
-  "GE": {
-    "name": "Gyeongsangnam ",
-    "capital": "Changwon",
-    "lat": 35.2383,
-    "long": 128.6922
-  },
-  "JJ": {
-    "name": "Jeju ",
+  "Jeju": {
+    "name": "제주 ",
     "capital": "Jeju City",
-    "lat": 33.4996,
-    "long": 126.5312
+    "lat": 33.499,
+    "long": 126.531
   }
 }
