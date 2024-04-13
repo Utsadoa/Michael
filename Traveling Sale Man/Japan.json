@@ -1,98 +1,62 @@
 {
-  "": {
+  "Hokkaido": {
     "name": "부산",
     "capital": "Kimchi",
     "lat": 35.179,
     "long": 129.075
   },
-  "Gyeongsangnam": {
+  "Fukushima": {
     "name": "경상남",
     "capital": "Bata",
     "lat": 35.460,
     "long": 128.213
   },
-  "Ulsan": {
+  "Tokyo": {
     "name": "울산",
     "capital": "Oreo",
     "lat": 35.538,
     "long": 129.311
   },
-  "Daegu": {
+  "Chiba": {
     "name": "대구",
     "capital": "Blossom",
     "lat": 35.866,
     "long": 128.600
   },
-  "Gyeongsangbuk": {
+  "Osaka": {
     "name": "경상북",
     "capital": "Girls",
     "lat": 35.835,
     "long": 129.263
   },
-  "Gangwon": {
+  "Tokushima": {
     "name": "강원",
     "capital": "Bar",
     "lat": 37.342,
     "long": 127.920
   },
-  "Seoul": {
+  "Hiroshima": {
     "name": "서울",
     "capital": "Food",
     "lat": 37.517,
     "long": 127.047
   },
-  "Incheon": {
+  "Nagasaki": {
     "name": "인천",
     "capital": "Beer",
     "lat": 37.456,
     "long": 126.705
   },
-  "Gyeonggi": {
+  "Kyoto": {
     "name": "경기",
     "capital": "Soju",
     "lat": 37.859,
     "long": 126.785
   },
-  "Chungcheongbuk": {
+  "Niseko": {
     "name": "충청북",
     "capital": "Pho",
     "lat": 36.981,
     "long": 127.935
-  },
-  "Daejeon": {
-    "name": "대전",
-    "capital": "Banh My",
-    "lat": 36.351,
-    "long": 127.7001
-  },
-  "Chungcheongnam": {
-    "name": "충청남",
-    "capital": "Daejeon",
-    "lat": 36.806,
-    "long": 126.979
-  },
-  "Jeollabuk": {
-    "name": "전라북",
-    "capital": "Jeonju",
-    "lat": 35.717,
-    "long": 127.153
-  },
-  "Gwangju": {
-    "name": "광주",
-    "capital": "Muan",
-    "lat": 35.166,
-    "long": 126.916
-  },
-  "Jeolanam": {
-    "name": "전라남",
-    "capital": "Andong",
-    "lat": 34.990,
-    "long": 126.478
-  },
-  "Jeju": {
-    "name": "제주 ",
-    "capital": "Jeju City",
-    "lat": 33.499,
-    "long": 126.531
   }
 }
