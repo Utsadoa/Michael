@@ -2,38 +2,38 @@
   "Hokkaido": {
     "name": "부산",
     "capital": "Kimchi",
-    "lat": 35.179,
-    "long": 129.075
+    "lat": 41.82,
+    "long": 140.84
   },
   "Fukushima": {
     "name": "경상남",
     "capital": "Bata",
-    "lat": 35.460,
-    "long": 128.213
+    "lat": 37.75,
+    "long": 140.47
   },
   "Tokyo": {
     "name": "울산",
     "capital": "Oreo",
-    "lat": 35.538,
-    "long": 129.311
+    "lat": 35.68,
+    "long": 139.69
   },
   "Chiba": {
     "name": "대구",
     "capital": "Blossom",
-    "lat": 35.866,
-    "long": 128.600
+    "lat": 35.61,
+    "long": 140.11
   },
   "Osaka": {
     "name": "경상북",
     "capital": "Girls",
-    "lat": 35.835,
-    "long": 129.263
+    "lat": 34.69,
+    "long": 135.50
   },
   "Tokushima": {
     "name": "강원",
     "capital": "Bar",
-    "lat": 37.342,
-    "long": 127.920
+    "lat": 34.06,
+    "long": 134.04
   },
   "Hiroshima": {
     "name": "서울",
@@ -44,19 +44,19 @@
   "Nagasaki": {
     "name": "인천",
     "capital": "Beer",
-    "lat": 37.456,
-    "long": 126.705
+    "lat": 32.78,
+    "long": 129.71
   },
   "Kyoto": {
     "name": "경기",
     "capital": "Soju",
-    "lat": 37.859,
-    "long": 126.785
+    "lat": 35.02,
+    "long": 135.77
   },
   "Niseko": {
     "name": "충청북",
     "capital": "Pho",
-    "lat": 36.981,
-    "long": 127.935
+    "lat":  42.77,
+    "long": 140.71
   }
 }
